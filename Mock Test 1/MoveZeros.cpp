@@ -15,3 +15,6 @@ void moveZeroes(vector<int>& nums) {
         }
         
     }
+
+//Time complexity O(n)
+//Space Complexity O(1)
